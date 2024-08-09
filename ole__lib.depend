@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1723198282 source:c:\users\ammar\onedrive\desktop\spring 2024 6th sem\es\es_lab\es_lab\ole__lib\fuse.c
+	<avr/io.h>
+
+1723198710 source:c:\users\ammar\onedrive\desktop\spring 2024 6th sem\es\es_lab\es_lab\ole__lib\main.c
+	<avr/io.h>
+	"oled.h"
+
+1723198655 source:c:\users\ammar\onedrive\desktop\spring 2024 6th sem\es\es_lab\es_lab\ole__lib\oled.c
+	"oled.h"
+
+1723198571 c:\users\ammar\onedrive\desktop\spring 2024 6th sem\es\es_lab\es_lab\ole__lib\oled.h
+	<stdbool.h>
+	<avr/io.h>
+	<util/delay.h>
+
